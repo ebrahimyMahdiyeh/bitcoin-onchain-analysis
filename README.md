@@ -28,5 +28,3 @@ The analysis focuses primarily on:
 - **System stability**
 - **Coefficient significance**
 - **Long‑run relationships between price and network metrics**
-
-## Project Structure
